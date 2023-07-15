@@ -3,4 +3,4 @@ zone resolusi
 -membuat platform untuk mengelola video.
 -membuat forum diskusi 
 -kedepannya membuat workshop.
--kolaborasi dengan platform lain.
+-membuat vlog
